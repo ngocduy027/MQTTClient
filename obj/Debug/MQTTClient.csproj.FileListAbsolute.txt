@@ -1,0 +1,13 @@
+C:\Users\ngocd\OneDrive - Hanoi University of Science and Technology\School Work\20222\Project 1\Code\MQTTClient\bin\Debug\MQTTClient.exe.config
+C:\Users\ngocd\OneDrive - Hanoi University of Science and Technology\School Work\20222\Project 1\Code\MQTTClient\bin\Debug\MQTTClient.exe
+C:\Users\ngocd\OneDrive - Hanoi University of Science and Technology\School Work\20222\Project 1\Code\MQTTClient\bin\Debug\MQTTClient.pdb
+C:\Users\ngocd\OneDrive - Hanoi University of Science and Technology\School Work\20222\Project 1\Code\MQTTClient\bin\Debug\M2Mqtt.Net.dll
+C:\Users\ngocd\OneDrive - Hanoi University of Science and Technology\School Work\20222\Project 1\Code\MQTTClient\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\ngocd\OneDrive - Hanoi University of Science and Technology\School Work\20222\Project 1\Code\MQTTClient\obj\Debug\MQTTClient.csproj.AssemblyReference.cache
+C:\Users\ngocd\OneDrive - Hanoi University of Science and Technology\School Work\20222\Project 1\Code\MQTTClient\obj\Debug\MQTTClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\ngocd\OneDrive - Hanoi University of Science and Technology\School Work\20222\Project 1\Code\MQTTClient\obj\Debug\MQTTClient.Properties.Resources.resources
+C:\Users\ngocd\OneDrive - Hanoi University of Science and Technology\School Work\20222\Project 1\Code\MQTTClient\obj\Debug\MQTTClient.csproj.GenerateResource.cache
+C:\Users\ngocd\OneDrive - Hanoi University of Science and Technology\School Work\20222\Project 1\Code\MQTTClient\obj\Debug\MQTTClient.csproj.CoreCompileInputs.cache
+C:\Users\ngocd\OneDrive - Hanoi University of Science and Technology\School Work\20222\Project 1\Code\MQTTClient\obj\Debug\MQTTClient.csproj.CopyComplete
+C:\Users\ngocd\OneDrive - Hanoi University of Science and Technology\School Work\20222\Project 1\Code\MQTTClient\obj\Debug\MQTTClient.exe
+C:\Users\ngocd\OneDrive - Hanoi University of Science and Technology\School Work\20222\Project 1\Code\MQTTClient\obj\Debug\MQTTClient.pdb
